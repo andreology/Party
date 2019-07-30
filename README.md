@@ -7,7 +7,8 @@ other. She wants to pick as many people as possible, subject to two constraints:
 at the party, each person should have at least k1 other people whom they know
 and k2 other people whom they don’t know. (Note that you can’t know or not
 know yourself. You don’t count in your own computation.)
-Example rom InitialParty.txt: 
+
+Example from InitialParty.txt: 
 
 
 
